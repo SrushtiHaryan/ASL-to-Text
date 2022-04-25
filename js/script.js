@@ -1,21 +1,21 @@
 $("#success").click(function () {
-    $(".notify").toggleClass("active");
+    $(".notify").toggleClass("activenoti");
     $("#notifyType").toggleClass("success");
     scrollToTop();
     
     setTimeout(function(){
-      $(".notify").removeClass("active");
+      $(".notify").removeClass("activenoti");
       $("#notifyType").removeClass("success");
     },2000);
   });
   
   $("#failure").click(function () {
-    $(".notify").addClass("active");
+    $(".notify").addClass("activenoti");
     $("#notifyType").addClass("failure");
     
     
     setTimeout(function(){
-      $(".notify").removeClass("active");
+      $(".notify").removeClass("activenoti");
       $("#notifyType").removeClass("failure");
     },2000);
   });
@@ -28,3 +28,5 @@ $("#success").click(function () {
     }
   };
   scrollToTop();
+
+  
