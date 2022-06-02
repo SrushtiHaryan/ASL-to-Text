@@ -17,9 +17,14 @@ https://srushtiharyan.github.io/ASL-to-Text/
 https://srushtiharyan.github.io/ASL-to-Text/
 
 This is one of the features of the Mini-Project> ASL-to-Text:
+https://github.com/SrushtiHaryan/ASL-to-Text
+
 
 -> It converts Sign Language to Text.
 
 -> One can create and train their own dataset without any prior knowledge
 
 -> Once the dataset is created, it can be used for prediction of the gestures.
+
+**Our whole project can be viewed on this site:**
+https://w35573.github.io/ExpressAbled/
