@@ -27,4 +27,4 @@ https://github.com/SrushtiHaryan/ASL-to-Text
 -> Once the dataset is created, it can be used for prediction of the gestures.
 
 **Our whole project can be viewed on this site:**
-https://w35573.github.io/ExpressAbled/
+(https://expressabled.netlify.app/)
